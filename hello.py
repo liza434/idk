@@ -1,2 +1,2 @@
 name=input()
-print(name+', доброе утро')
+print(name+', good morning!')
